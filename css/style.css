@@ -48,11 +48,11 @@ h2 {
 /****************/
 
 .bar {
-  fill: #3C948B;
+  fill:blue;
 }
 
 .bar:hover {
-  fill: #327972;
+  fill: darkblue;
 }
 
 .axis {
